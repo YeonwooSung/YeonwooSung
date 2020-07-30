@@ -1,5 +1,7 @@
 # Yeonwoo Sung
 
+Computer Scientist, and Software Engineer
+
 ## Education
 
 BSc in University of St Andrews (2016 - 2020)
