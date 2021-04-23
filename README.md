@@ -2,7 +2,7 @@
 
 Computer Scientist, and Software Engineer
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeonwooSung)](https://github.com/anuraghazra/github-readme-stats)
+![Yeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeonwooSung&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeonwooSung)](https://github.com/anuraghazra/github-readme-stats)
 
