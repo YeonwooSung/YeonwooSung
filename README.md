@@ -2,11 +2,9 @@
 
 Computer Scientist, and Software Engineer
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%231005B0&title_bg=%235D9FE1&icon=&icon_color=%233113BA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23191E6E&title_bg=%235D9FE1&icon=&icon_color=%233113BA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Yeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeonwooSung&show_icons=true&theme=radical)
+![Yeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeonwooSung&show_icons=true&theme=radical&title_color=#6844c9)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeonwooSung&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
