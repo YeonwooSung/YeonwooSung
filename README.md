@@ -8,6 +8,8 @@ Computer Scientist, and Software Engineer
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeonwooSung&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
+## Skills
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
