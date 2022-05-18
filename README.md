@@ -4,7 +4,7 @@ Computer Scientist, and Software Engineer
 
 ![Yeonwoo's GitHub stats](https://github-readme-stats-beryl.vercel.app/api?username=YeonwooSung&show_icons=true&theme=radical&title_color=7147e6)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeonwooSung&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=YeonwooSung&theme=radical&layout=compact)
 
 ## Skills
 
