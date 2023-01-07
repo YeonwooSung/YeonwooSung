@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 </p>
 
+## Kaggle
+
+Kaggle Competition Expert
+
 ## Education
 
 BSc in University of St Andrews (2016 - 2020)
