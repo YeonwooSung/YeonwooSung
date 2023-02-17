@@ -1,8 +1,8 @@
 # Yeonwoo Sung
 
-![Yeonwoo's GitHub stats](https://github-readme-stats-beryl.vercel.app/api?username=YeonwooSung&show_icons=true&theme=radical&title_color=7147e6)
+![Yeonwoo's GitHub stats](https://readme-stats.clckblog.space/api?username=YeonwooSung&show_icons=true&theme=radical&title_color=7147e6)
 
-![Top Langs](https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=YeonwooSung&theme=radical&layout=compact)
+![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=YeonwooSung&theme=radical&layout=compact)
 
 ## Skills
 
