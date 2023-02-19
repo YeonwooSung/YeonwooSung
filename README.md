@@ -2,8 +2,6 @@
 
 ![Yeonwoo's GitHub stats](https://readme-stats.clckblog.space/api?username=YeonwooSung&show_icons=true&theme=radical&title_color=7147e6)
 
-![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=YeonwooSung&theme=radical&layout=compact)
-
 ## Skills
 
 <h3 align="center">📚 Tech Stack 📚</h3>
