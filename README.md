@@ -1,5 +1,6 @@
 # Yeonwoo Sung
 
+![Yeonwoo's GitHub stats](https://readme-stats.clckblog.space/api?username=YeonwooSung&show_icons=true&theme=radical&title_color=7147e6)
 ![Yeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeonwooSung&show_icons=true&theme=radical&title_color=7147e6)
 
 ## Skills
