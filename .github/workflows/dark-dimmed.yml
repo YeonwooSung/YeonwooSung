@@ -1,6 +1,7 @@
 # This workflow configures the user-statistician with the
 # dark-dimmed color theme, but otherwise uses all of
 # the defaults. It is configured on a daily schedule at 3am.
+# Reference: <https://github.com/cicirello/user-statistician/tree/main/quickstart>
 
 name: user-statistician
 
