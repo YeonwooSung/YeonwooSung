@@ -19,6 +19,15 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>&nbsp
 </p>
 
+## Open Source Contributions
+
+- [pytorch](https://github.com/pytorch/pytorch)
+- [verl](https://github.com/verl-project/verl)
+- [vllm](https://github.com/vllm-project/vllm)
+- [torchtitan](https://github.com/pytorch/torchtitan)
+- [torch rl](https://github.com/pytorch/rl)
+- [Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
+
 ## Kaggle
 
 Kaggle Competition Expert
