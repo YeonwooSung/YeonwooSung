@@ -27,6 +27,8 @@
 - [torchtitan](https://github.com/pytorch/torchtitan)
 - [torch rl](https://github.com/pytorch/rl)
 - [Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
+- [cuda-rust](https://github.com/NVIDIA/cuda-rust)
+- [sie](https://github.com/superlinked/sie)
 
 ## Kaggle
 
